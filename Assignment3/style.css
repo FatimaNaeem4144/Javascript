@@ -1,0 +1,39 @@
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 28px;
+    padding-left: 400px;
+    text-decoration: underline;
+}
+h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: inline-block;
+}
+.secHead{
+    padding-left: 120px;
+}
+.thirdHead{
+    padding-left: 150px;
+}
+.fourthHead{
+    padding-left: 170px;
+}
+.filtered{
+    padding-left: 550px !important;
+}
+button{
+    padding: 10px;
+    border-radius: 50px;
+    margin-left: 590px;
+    box-shadow: 5px 8px 15px gray;
+}
+button:hover{
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+select{
+    padding: 4px;
+    border-radius: 50px;
+    background-color: rgba(128, 128, 128, 0.505);
+}
